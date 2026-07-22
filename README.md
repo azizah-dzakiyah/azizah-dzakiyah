@@ -1,5 +1,9 @@
 ## Hi there! I'm Dzakiyah 👋
 
+
+![azizah-dzakiyah](github-header-banner.png)
+
+
 <!--
 **azizah-dzakiyah/azizah-dzakiyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-| Can  | Still Learn|
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
